@@ -1,0 +1,6 @@
+#surefire
+#Fri Aug 03 15:18:12 GMT 2018
+maven.ext.class.path=/usr/local/netbeans-8.2/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project
+localRepository=/home/mucahit/.m2/repository
+basedir=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project

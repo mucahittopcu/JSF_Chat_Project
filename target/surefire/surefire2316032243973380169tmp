@@ -1,0 +1,26 @@
+#surefire
+#Fri Aug 03 15:18:58 GMT 2018
+testClassesDirectory=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project/target/test-classes
+classPathUrl.4=/home/mucahit/.m2/repository/org/primefaces/primefaces/6.1/primefaces-6.1.jar
+forkMode=once
+classPathUrl.3=/home/mucahit/.m2/repository/net/bootsfaces/bootsfaces/1.2.0/bootsfaces-1.2.0.jar
+classPathUrl.2=/home/mucahit/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project/target/classes
+reportsDirectory=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project/target/surefire-reports
+classPathUrl.0=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/home/mucahit/NetBeansProjects/mavenproject2/Chat_Project/src/test/java
+surefireClassPathUrl.1=/home/mucahit/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+surefireClassPathUrl.0=/home/mucahit/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=/home/mucahit/.m2/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar
